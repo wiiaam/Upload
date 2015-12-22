@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:padding="6sp">
+
+    <ImageView
+        android:id="@+id/uploader_icon"
+        android:layout_width="?android:attr/listPreferredItemHeight"
+        android:layout_height="fill_parent"
+        android:layout_marginRight="10dip"
+        android:contentDescription="TODO"
+        android:src="@drawable/appicon" />
+
+    <TextView
+        android:id="@+id/uploader_name"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:singleLine="true"
+        android:text="tteeesst"
+        android:textSize="40sp"
+        android:gravity="center_vertical"/>
+
+</LinearLayout>

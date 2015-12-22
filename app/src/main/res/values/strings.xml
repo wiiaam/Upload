@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Upload</string>
+
+
+    <!-- Menu -->
+    <string name="menu_add">Add</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="menu_done">Done</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Share dialog -->
+    <string name="share_title">Pick an upload service</string>
+
+    <!-- Uploads -->
+    <string name="upload_progress">Uploading to %s</string>
+    <string name="upload_finished">Upload to %s finished</string>
+    <string name="upload_failed">Upload to %s failed</string>
+    <string name="upload_completed_toast">Upload completed. URL copied to clipboard</string>
+
+    <!-- Settings -->
+    <string name="pref_title_notifications">Notifications</string>
+    <string name="pref_show_notifications">Show notifications</string>
+    <string name="pref_sound_on_complete">Play sound</string>
+    <string name="pref_vibrate_on_complete">Vibrate</string>
+
+    <string name="pref_title_uploads">Uploads</string>
+    <string name="pref_multi_upload">Upload multiple files at once</string>
+</resources>
